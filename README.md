@@ -77,9 +77,9 @@ To analyze India’s electric and hybrid vehicle market and deliver actionable i
 
   ### 💼 [Linkedin Post]
 
-  ### 📊 [Live Dashboard]
+  ### 📊 [Live Dashboard]https://lnkd.in/gXY-s36Z
 
-  ### 🎥 [Full Presentation Walkthrough]
+  ### 🎥 [Full Presentation Walkthrough]https://youtu.be/YUtfUir-3P8
 
 
 
