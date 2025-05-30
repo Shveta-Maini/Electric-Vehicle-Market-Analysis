@@ -75,7 +75,7 @@ To analyze India’s electric and hybrid vehicle market and deliver actionable i
 
  ## 🔗 Important Links
 
-  ### 💼 [Linkedin Post]
+  ### 💼 [Linkedin Post]https://www.linkedin.com/posts/shveta-maini-2b2a1a28b_sql-powerbi-electricvehicles-activity-7334073333900029952-fh5W?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZzviYBaoS8w9o7cPkOgTL26BLpYMkRRkM
 
   ### 📊 [Live Dashboard]https://app.powerbi.com/view?r=eyJrIjoiOThjMzIzY2ItNDU1Mi00MThhLTlkNmYtMGZkMWExYTA5YzQzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
