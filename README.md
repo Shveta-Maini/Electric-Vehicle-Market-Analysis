@@ -42,7 +42,7 @@ To analyze India’s electric and hybrid vehicle market and deliver actionable i
 
 - **Data Visualization**: Power BI  
 - **Data Analysis**: SQL    
-- **Tools**: Excel, SQL, Power BI Desktop, Power BI Service and Powerpoint.
+- **Tools**:  SQL, Power BI Desktop, Power BI Service and Powerpoint.
 
 
 ## 📈 Dashboard Overview
